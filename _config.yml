@@ -1,0 +1,5 @@
+# Jekyll configuration
+name: rook0falcon
+url: "https://rook0falcon.github.io"
+markdown: GFM
+highlighter: rouge
